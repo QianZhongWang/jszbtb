@@ -7,7 +7,7 @@ import Greet from "./components/Greet.vue";
 <template>
   <div class="container">
     <h1 class="text">江苏招标投标公共服务平台</h1>
-    <h2 class="text">标准发布工具</h2>
+    <h2 class="text">标准发布工具V1.0.0</h2>
     <div class="row">
       <a href="https://vitejs.dev" target="_blank">
         <img src="/vite.svg" class="logo vite" alt="Vite logo"/>
